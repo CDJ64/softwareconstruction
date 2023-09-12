@@ -4,7 +4,7 @@
 
 📖 **Required Reading**: Core Java for the Impatient Chapter 2: Object-Oriented Programming
 
-Classes are the primary programming construct for Java. A class contains fields and methods. Fields represent variables within the class and methods represent operations that the class performs. For example, if we had a class that represents a person, we might have a field called `name` that contains the person's name, and a method call `sayName` that outputs the name. An object is an instantiation, or instance, of a class that has been initialized to contain values. A class may also, have a constructor that provides the default values for the fields when the class is instantiated into an object.
+Classes are the primary programming construct for Java. A class contains fields and methods. Fields represent variables within the class and methods represent operations that the class performs. For example, if we had a class that represents a person, we might have a field called `name` that contains the person's name, and a method call `sayName` that outputs the name. An object is an instantiation, or instance, of a class that has been initialized to contain values. A class may also have a constructor that provides the default values for the fields when the class is instantiated into an object.
 
 ```java
 public class Person {
